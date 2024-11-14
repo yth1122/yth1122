@@ -5,7 +5,7 @@
   <img
     src="https://render.gitanimals.org/farms/yth1122"
     width="1000"
-    height="200"
+    height="150"
   />
 </a>
 <br/>
