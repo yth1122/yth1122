@@ -1,12 +1,11 @@
 <h2></h2>
 <br/>
 
-<a href="https://github.com/devxb/gitanimals">
+  <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/yth1122"
+    src="https://render.gitanimals.org/farms/yth1122"
     width="600"
-    height="120"
+    height="300"
   />
 </a>
-  
 <br/>
